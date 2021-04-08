@@ -1,0 +1,7 @@
+{
+  "name": "JimMusic",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/TJimmY123/jimmusic.git",
+  "logo": "https://imgur.com/gallery/fxAHsRp",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
